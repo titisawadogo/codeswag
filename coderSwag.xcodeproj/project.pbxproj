@@ -15,6 +15,7 @@
 		7316A23B209FA41C009EA451 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7316A23A209FA41C009EA451 /* CategoryCell.swift */; };
 		7316A23D209FC74C009EA451 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7316A23C209FC74C009EA451 /* Category.swift */; };
 		7316A240209FCA06009EA451 /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7316A23F209FCA06009EA451 /* DataServices.swift */; };
+		7316A24220A017F9009EA451 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7316A24120A017F9009EA451 /* ProductCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7316A23A209FA41C009EA451 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		7316A23C209FC74C009EA451 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		7316A23F209FCA06009EA451 /* DataServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
+		7316A24120A017F9009EA451 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				7316A23A209FA41C009EA451 /* CategoryCell.swift */,
+				7316A24120A017F9009EA451 /* ProductCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				7316A240209FCA06009EA451 /* DataServices.swift in Sources */,
 				7316A228209F9CAC009EA451 /* CategoriesVC.swift in Sources */,
 				7316A23B209FA41C009EA451 /* CategoryCell.swift in Sources */,
+				7316A24220A017F9009EA451 /* ProductCell.swift in Sources */,
 				7316A226209F9CAC009EA451 /* AppDelegate.swift in Sources */,
 				7316A23D209FC74C009EA451 /* Category.swift in Sources */,
 			);
